@@ -1,0 +1,17 @@
+{
+  "name": "TaskManager",
+  "short_name": "TaskManager",
+  "description": "A simple task management PWA with offline functionality",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4a90e2",
+  "icons": [
+    {
+      "src": "https://idonotwritecode.com/wp-content/uploads/2025/04/my-notion-face-transparent.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

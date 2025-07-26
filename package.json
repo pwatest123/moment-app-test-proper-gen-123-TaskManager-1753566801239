@@ -1,0 +1,14 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "A simple task management PWA with offline functionality",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve public"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
